@@ -1,0 +1,25 @@
+{
+  "name": "movies",
+  "authors": [
+    "lindaxiao <lindaxiao.hust@gmail.com>"
+  ],
+  "description": "a simple movies website using nodejs and mongodb",
+  "main": "",
+  "keywords": [
+    "movies"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
